@@ -72,7 +72,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ",",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.4",
-  caption : process.env.CAPTION || "©▪️▫️▪️ѕιℓєηт  χαямσηу🦚*\n youtube.com/@silent.xarmony"),
+  caption : process.env.CAPTION || "©▪️▫️▪️ѕιℓєηт  χαямσηу🦚",
  
   author : process.env.PACK_AUTHER|| "▪️▫️▪️ѕιℓєηт  χαямσηу🦚",
   packname: process.env.PACK_NAME || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚",
